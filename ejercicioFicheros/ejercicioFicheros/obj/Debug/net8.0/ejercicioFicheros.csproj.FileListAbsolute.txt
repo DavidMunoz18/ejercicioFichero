@@ -1,0 +1,14 @@
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\bin\Debug\net8.0\ejercicioFicheros.exe
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\bin\Debug\net8.0\ejercicioFicheros.deps.json
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\bin\Debug\net8.0\ejercicioFicheros.runtimeconfig.json
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\bin\Debug\net8.0\ejercicioFicheros.dll
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\bin\Debug\net8.0\ejercicioFicheros.pdb
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\ejercicioFicheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\ejercicioFicheros.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\ejercicioFicheros.AssemblyInfo.cs
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\ejercicioFicheros.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\ejercicioFicheros.dll
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\refint\ejercicioFicheros.dll
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\ejercicioFicheros.pdb
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\ejercicioFicheros.genruntimeconfig.cache
+C:\Users\Julio\source\repos\ejercicioFicheros\ejercicioFicheros\obj\Debug\net8.0\ref\ejercicioFicheros.dll
